@@ -13,23 +13,25 @@ $('#GoogleSite').click(function(){
  		window.open("https://sites.google.com/site/mstallerscience/");
  	});
 
-/*!
+
  	$('#legoDUPLO').click(function(){
- 		window.open("http://codepen.io/jhandshoe/pen/rLmgrr");
+ 		window.open("DUPLOstore/storepage.html");
  	});
 
  	$('#fizzBuzz').click(function(){
- 		window.open("http://ajax-tutorial.herokuapp.com/");
+ 		window.open("https://repl.it/Dpwa/3");
  	});
+ 	/*
 
  	$('#Calculator').click(function(){
  		window.open("https://meditate-app.herokuapp.com/");
  	});
+ 	*/
 
  	$('#Gradebook').click(function(){
- 		window.open("http://mean-unmultipliable-armpit.mybluemix.net/");
+ 		window.open("https://repl.it/DqIX/2");
  	});
-
+/*
  	$('#Blackjack').click(function(){
  		window.open("https://workoutweb-1150-jhandshoe.herokuapp.com/");
  	});
